@@ -5,5 +5,7 @@ matplotlib
 scikit-learn
 ipywidgets
 xgboost
--e .
+catboost
+dill
+#-e .
 
