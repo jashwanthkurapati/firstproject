@@ -1,11 +1,8 @@
-pandas 
 numpy
-seaborn
+pandas
 matplotlib
-scikit-learn
-ipywidgets
-xgboost
+seaborn
+sklearn
 catboost
-dill
-#-e .
-
+xgboost
+.e
