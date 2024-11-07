@@ -20,3 +20,4 @@ step by step procedure for implementation :
  frist start with data_ingestion.py file here we are collecting differnt datasets and files and later Data transfomation file here we need to perfome data analysis for machine learning perposes
 then creating model.py file for testing all regresion algorithms making dictionary and executing all parralel manner and selecting best score wether it can be accuracy, roc curve (if dataset is imbalenced).
 storing models using pkl 
+integrating with flask backend creating web interface using html and css javascript filling form getting results.
